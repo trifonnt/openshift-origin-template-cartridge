@@ -1,5 +1,4 @@
 #!/bin/bash -eu
-
 source $OPENSHIFT_CARTRIDGE_SDK_BASH
 
 case "$1" in
