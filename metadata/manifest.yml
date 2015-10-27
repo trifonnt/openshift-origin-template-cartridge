@@ -1,15 +1,16 @@
 ---
 Name: template
 Cartridge-Short-Name: TEMPLATE
-Cartridge-Version: 0.0.1
-Compatible-Versions: []
+Cartridge-Version: 0.0.2
+Compatible-Versions: ['0.0.1']
 Cartridge-Vendor: trifonnt
 Architecture: noarch
 Display-Name: Template Cartridge 0.0.1
 Description: This is a template cartridge structure. Replace the relevant aspects of the manifest with the content you need, based on guidance from the OpenShift Cartridge Developers Guide
-Version: '0.0.1'
+Version: '2.0.1'
 Versions:
-	- '0.0.1'
+	- '2.0.1'
+	- '2.0.2'
 License: GPL
 Vendor: trifonnt
 Categories:
