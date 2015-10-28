@@ -1,11 +1,11 @@
 ---
 Name: template
 Cartridge-Short-Name: TEMPLATE
-Cartridge-Version: 0.0.2
-Compatible-Versions: ['0.0.1']
+Cartridge-Version: 0.0.3
+Compatible-Versions: ['0.0.1','0.0.2']
 Cartridge-Vendor: trifonnt
 Architecture: noarch
-Display-Name: Template Cartridge 0.0.1
+Display-Name: Template Cartridge 0.0.3
 Description: This is a template cartridge structure. Replace the relevant aspects of the manifest with the content you need, based on guidance from the OpenShift Cartridge Developers Guide
 Version: '2.0.1'
 Versions:
@@ -20,7 +20,7 @@ Website: https://github.com/trifonnt/openshift-origin-template-cartridge
 Help-Topics:
   Developers Guide: http://openshift.github.io/documentation/oo_cartridge_developers_guide.html
 Provides:
-  - template-0.0.1
+  - template-0.0.3
   - "template"
 Publishes:
   get-internal-uri:
